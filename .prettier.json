@@ -1,12 +1,19 @@
+
+
 {
-    "printWidth": 100,
-    "tabWidth": 2,
-    "useTabs": false,
-    "semi": true,
-    "singleQuote": true,
-    "trailingComma": "es5",
-    "bracketSpacing": true,
-    "jsxBracketSameLine": false,
-    "arrowParens": "avoid",
-    "proseWrap": "always"
+  "prettier.enableDebugLogs": true,
+  "[javascript]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[css]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[scss]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "[html]": {"editor.defaultFormatter": "esbenp.prettier-vscode"},
+  "printWidth": 100,
+  "tabWidth": 2,
+  "useTabs": false,
+  "semi": true,
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "bracketSpacing": true,
+  "jsxBracketSameLine": false,
+  "arrowParens": "avoid",
+  "proseWrap": "always"
   }
